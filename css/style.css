@@ -1,0 +1,20 @@
+
+h1{
+	color: #a4a4a4;
+}
+
+#page{
+	margin: 10px auto;
+	width: 80%;
+	height: 550px;
+	background-image: url(../img/pic.jpg);
+	background-repeat: no-repeat;	
+	background-size: cover;
+}
+
+#page h2{
+	font-size: 40px;
+	color: white;
+	padding-top: 230px;
+	padding-left: 240px;
+}
